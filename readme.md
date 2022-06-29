@@ -29,7 +29,7 @@ The pins PB6 and PB7 are used for the I2C communication
 between the stm32 and the MPU6050.
 PB6 is connected to the SCL and PB7 to the SDA pin of the MPU6050.
 
-## Pin Configuration:
+### Pin Configuration:
 The pins PB6 and PB7 are set to
 •	Alternate function mode as they are used for I2C.
 •	Open drain and pull up mode
@@ -41,14 +41,14 @@ Connected to the L289N IC for controlling the direction of the
 motor.
 ## PA1-> IN1	PA3->IN3 PA2->IN2	PA4->IN4
 
-## Configurations :
+### Configurations :
 1)General purpose output mode
 2)Pull down mode
 3)High speed
 ## Port D:
 PD12,PD13,PD14 and PD15 pins are used as PWM output pins connected to the L289N enable pins 
 
-## Configuration:
+### Configuration:
 * Alternate function mode for PWM
 * Pull up and High speed mode
 * PWM Configurations
