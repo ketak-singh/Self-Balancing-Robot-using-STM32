@@ -39,7 +39,7 @@ The pins PB6 and PB7 are set to
 The pins A1,A2,A3 and A4 are used
 Connected to the L289N IC for controlling the direction of the
 motor.
-## PA1-> IN1	PA3->IN3 PA2->IN2	PA4->IN4
+### PA1-> IN1	PA3->IN3 PA2->IN2	PA4->IN4
 
 ### Configurations :
 1)General purpose output mode
